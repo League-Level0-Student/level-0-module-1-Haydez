@@ -9,7 +9,7 @@ public static void main(String[] args) {
 		JOptionPane.showMessageDialog(null, "HAHAHAHAHHAHA you got it wrong. IDIOT.  Its the letter E");
 	}
 	String riddle2=JOptionPane.showInputDialog("What belongs to you, but is used by others?");
-	if(riddle2.equals("Your Name")) {
+	if(riddle2.equals("My Name")) {
 		JOptionPane.showMessageDialog(null, "Congratulations, you got it right");
 	}else {
 		JOptionPane.showMessageDialog(null, "WRONGGGGGG, its your name.  STUPID.");
